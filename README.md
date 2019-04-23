@@ -18,11 +18,11 @@
 
 ## **Overview**
 
-## **Table of Contents*
+## **Table of Contents**
 
 + Statute
     + [Errors-DIAPI](./sbo_error_DI.md 'DI')
-    + [Errors-ServiceLayer](./sbo_error_servicelayer.md 'SL')
+    + [Errors-ServiceLayer](./sbo_error_servicelayer.md 'ServiceLayer')
 
 ## ***Thanks***
 <h3 align="left">
